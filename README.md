@@ -50,8 +50,8 @@ This repository contains all the projects I completed as part of the internship.
 ---
 
 ### Connect With Me:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: https://www.linkedin.com/in/gauri-gaikwad-5b71832b4
+- GitHub: https://github.com/Gauri594
 
 ---
 
